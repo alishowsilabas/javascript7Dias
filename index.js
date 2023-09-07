@@ -1,3 +1,6 @@
-let continuacaoTexto = 'foi feita em JavaScript.';
-let elementoSpan = document.getElementById("continuacaoEmJS");
-elementoSpan.innerHTML = continuacaoTexto;
+let maquiagemC = {
+    itemName: 'Twins MakeUp',
+    itemPrice: 49.90,
+    itemAvailable: true,
+    itemColor: 'Nude'
+}
