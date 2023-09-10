@@ -13,7 +13,7 @@ h1 {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
-#textJS {
+.textJS {
     color: red;
     font-weight: bold;
     text-shadow: 2px 2px 1px #77f;
