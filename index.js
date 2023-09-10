@@ -1,3 +1,5 @@
-let addedText = 'foi adicionado com JavaScript ;D';
-let textInSpan = document.getElementsByClassName("textJS")[0];
-textInSpan.innerHTML = addedText;
+let productValue = Number(prompt('Enter the product value: '));
+
+if(productValue >= 20){
+    document.getElementsByClassName('result')[0];
+}
